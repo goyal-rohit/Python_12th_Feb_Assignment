@@ -1,1 +1,1 @@
-# Python_12th_Feb_Assignment
+The Python workbook contains the assignment shared on 12th Feb 2023 regarding Exception Handling
